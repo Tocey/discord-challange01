@@ -190,15 +190,15 @@ body {
 }
 .card__picture--1 {
   background-image: linear-gradient(to right bottom, #7ed56f8e, #28b485),
-    url(../img/code.jpg);
+    url(img/code.jpg);
 }
 .card__picture--2 {
   background-image: linear-gradient(to right bottom, #7ed56f, #28b485),
-    url(../img/market.jpg);
+    url(img/market.jpg);
 }
 .card__picture--3 {
   background-image: linear-gradient(to right bottom, #7ed56f, #28b485),
-    url(../img/mobile.jpg);
+    url(img/mobile.jpg);
 }
 .card__heading {
   font-size: 3rem;
